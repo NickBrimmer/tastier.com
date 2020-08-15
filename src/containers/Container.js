@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Moods = () => {
+const Container = () => {
   return (
     <>
     </>
   );
 };
 
-export default Moods;
+export default Container;
