@@ -1,8 +1,8 @@
 import React from 'react';
-import Container from '../containers/Container';
+import Homepage from '../containers/Homepage';
 
 
 export default function App() {
-  return <Container />;
+  return <Homepage />;
 }
 
